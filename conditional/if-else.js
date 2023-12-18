@@ -3,10 +3,13 @@ let answer;
 
 if (bil == 9) {
     answer = 'ini bilangan ganjil';
+    console.log('ini bilangan ganjil')
 } else if (bil == 4) {
     answer = 'ini bilangan genap';
+    console.log('ini bilangan genap')
 } else {
     answer = 'bukan bilangan'
+    console.log('bukan bilangan')
 }
 
 if ("kondisi") {
